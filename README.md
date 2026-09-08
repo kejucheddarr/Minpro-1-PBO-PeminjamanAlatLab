@@ -21,6 +21,8 @@ Kemudian setelah alat dikembalikan, petugas dapat memilih menu 3 dan memasukkan 
 <img width="831" height="223" alt="image" src="https://github.com/user-attachments/assets/39e714ae-61b9-43c7-8ce8-500a2d5840ac" />
 <br/>
 Status peminjaman alat dapat dilihat kembali melalui menu 2, dengan status yang telah diperbarui menjadi “Dikembalikan” setelah alat dikembalikan.
+
+
 <img width="799" height="303" alt="image" src="https://github.com/user-attachments/assets/86a37492-d324-469b-bfed-0198a9e6fd55" />
 <br/>
 Petugas dapat keluar dari program saat memilih menu 4.

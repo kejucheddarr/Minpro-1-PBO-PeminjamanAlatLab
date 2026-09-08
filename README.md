@@ -1,6 +1,6 @@
 # Minpro-1-PBO-PeminjamanAlatLab
 ## Deskripsi Singkat Program
-PeminjamanAlatLab adalah program sistem sederhana berbasis javascript untuk mengelola peminjaman alat pada laboratorium biologi. Program ini menyediakan fitur untuk menambah peminjaman, menampilkan riwayat peminjaman, dan mengembalikan alat melalui menunya.
+PeminjamanAlatLab adalah program sistem sederhana berbasis Java untuk mengelola peminjaman alat pada laboratorium biologi. Program ini menyediakan fitur untuk menambah peminjaman, menampilkan riwayat peminjaman, dan mengembalikan alat melalui menunya.
 
 ## Penjelasan Alur Program
 Saat program pertama kali di run, sistem akan memberikan output menu utama yang terdiri dari empat pilihan:

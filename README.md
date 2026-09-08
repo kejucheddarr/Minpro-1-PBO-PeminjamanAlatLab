@@ -15,6 +15,7 @@ Saat petugas ingin meminjam alat, mereka pilih menu 1 dan mengisi detail-detail 
 <img width="734" height="360" alt="image" src="https://github.com/user-attachments/assets/c9953f6b-f23c-4074-bad7-1d9de6a4eae2" />
 <br/>
 Jika petugas ingin melihat riwayat peminjamannya, mereka dapat melihatnya pada menu 2, yang akan menampilkan, ID peminjaman, nama petugas, nama alat, dan jumlah alat yang dipinjam. Status “Dipinjam” akan ditambahkan secara otomatis oleh sistem.
+<br/>
 <img width="757" height="323" alt="image" src="https://github.com/user-attachments/assets/c422ce65-f889-4856-9811-914f7f421f09" />
 <br/>
 Kemudian setelah alat dikembalikan, petugas dapat memilih menu 3 dan memasukkan ID peminjamannya. Sistem akan menampilkan pesan “Alat berhasil dikembalikan” dan mencatat bahwa alat yang dipinjam telah dikembalikan.

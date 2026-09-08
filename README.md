@@ -1,4 +1,5 @@
 # Minpro-1-PBO-PeminjamanAlatLab
+Peminjaman Alat Lab adalah program sistem sederhana untuk mengelola peminjaman alat laboratorium biologi. Program menyediakan fitur untuk menambah peminjaman, menampilkan riwayat peminjaman, dan mengembalikan alat melalui menu berbasis javascript.
 <img width="1496" height="365" alt="image" src="https://github.com/user-attachments/assets/28fb9085-f690-44f5-8c1e-c6cae2546dac" />
 <img width="1501" height="311" alt="image" src="https://github.com/user-attachments/assets/6aa7f915-8804-4988-ad6b-8657e4b14e87" />
 <img width="1495" height="510" alt="image" src="https://github.com/user-attachments/assets/3eb259a8-6066-4129-b3d5-ccd9a5e8fe1b" />

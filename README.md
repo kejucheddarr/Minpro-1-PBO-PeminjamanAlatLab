@@ -32,3 +32,12 @@ Petugas dapat keluar dari program saat memilih menu 4.
 <img width="848" height="337" alt="image" src="https://github.com/user-attachments/assets/84a3842e-41d5-4919-ba9d-a7cd9ba43c59" />
 
 ## Penerapan nilai tambah
+### Access Modifier
+Penerapan access modifier private diterapkan pada atribut di class AlatLab, Peminjaman, dan PeminjamanService, untuk membatasi akses terhadap data.
+<img width="425" height="157" alt="image" src="https://github.com/user-attachments/assets/036360b4-ad78-4555-9b9e-43ca01b8f59d" />
+<img width="421" height="127" alt="image" src="https://github.com/user-attachments/assets/301014bb-97ee-4200-9e40-f9fed3a786e8" />
+<img width="828" height="50" alt="image" src="https://github.com/user-attachments/assets/f7684553-5342-4924-a46d-42958d889417" />
+### Enkapsulasi (getter & setter)
+Enkapsulasi diterapkan dengan menggunakan access modifier private pada atribut untuk membatasi akses langsung dari luar class. Data kemudian hanya dapat diakases melalui getter dan setter.
+<img width="1111" height="543" alt="image" src="https://github.com/user-attachments/assets/c3520f2d-bb11-414c-9fe9-41644bbb8c5e" />
+<img width="859" height="551" alt="image" src="https://github.com/user-attachments/assets/a4db3d80-b42f-4fbc-abe8-9f700a6c2e27" />

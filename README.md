@@ -10,19 +10,19 @@ Saat program pertama kali di run, sistem akan memberikan output menu utama yang 
 4. Kembalikan Alat
 5. Keluar
 <br/>
-<img width="1501" height="637" alt="image" src="https://github.com/user-attachments/assets/e2c5e42e-4cba-4aef-8900-f590ffbcd09e" /> <br/>
+<img width="1223" height="635" alt="image" src="https://github.com/user-attachments/assets/a1ef1d54-6cbb-4ce6-9745-2ebbeae066e2" /> <br/>
 Petugas dapat melihat daftar alat yang tersedia di laboratorium melalui pilihan menu 1. Setelah daftar alat ditampilkan, program akan otomatis kembali ke menu utama. <br/>
-<img width="706" height="640" alt="image" src="https://github.com/user-attachments/assets/85f2ece5-9504-4702-8eae-c8c313eca8e1" /> <br/>
+<img width="858" height="706" alt="image" src="https://github.com/user-attachments/assets/c5e4e64a-5947-41ee-9257-8063bae996d4" /> <br/>
 Saat petugas ingin meminjam alat, mereka pilih menu 2 dan mengisi detail-detail seperti ID peminjaman, nama petugas, nama alat, dan jumlah yang dipinjam. Setelah data berhasil dimasukkan, sistem akan menampilkan pesan “Peminjaman berhasil ditambahkan”, dan akan balik ke menu awal. <br/>
-<img width="800" height="538" alt="image" src="https://github.com/user-attachments/assets/03ab5eca-ef34-417d-adec-a339d0c970c4" /> <br/>
+<img width="654" height="558" alt="image" src="https://github.com/user-attachments/assets/e3de66f3-c18b-4f89-bcc3-467de4548470" /> <br/>
 Jika petugas ingin melihat riwayat peminjamannya, mereka dapat melihatnya pada menu 3, yang akan menampilkan, ID peminjaman, nama petugas, nama alat, dan jumlah alat yang dipinjam. Status “Dipinjam” akan ditambahkan secara otomatis oleh sistem. Setelah itu program akan balik ke menu awal. <br/>
-<img width="715" height="483" alt="image" src="https://github.com/user-attachments/assets/7ac95144-b963-40d5-b27f-70bd0b8238f4" /> <br/>
+<img width="705" height="516" alt="image" src="https://github.com/user-attachments/assets/08c60ac3-1d4d-43fa-a38b-bc984fb11414" /> <br/>
 Kemudian setelah alat dikembalikan, petugas dapat memilih menu 4 dan memasukkan ID peminjamannya. Sistem akan menampilkan pesan “Alat berhasil dikembalikan” dan mencatat bahwa alat yang dipinjam telah dikembalikan, dan balik ke menu awal. <br/>
-<img width="737" height="403" alt="image" src="https://github.com/user-attachments/assets/d758acbc-8bbd-47e8-babd-837e8e6ba2b8" /> <br/>
+<img width="757" height="451" alt="image" src="https://github.com/user-attachments/assets/a78fba55-7abd-43f9-9763-a492be97f185" /> <br/>
 Status peminjaman alat dapat dilihat kembali melalui menu 3, dengan status yang telah diperbarui menjadi “Dikembalikan” setelah alat dikembalikan. <br/>
-<img width="799" height="303" alt="image" src="https://github.com/user-attachments/assets/86a37492-d324-469b-bfed-0198a9e6fd55" /> <br/>
+<img width="741" height="517" alt="image" src="https://github.com/user-attachments/assets/a9e69f5e-26d6-4d53-b5ba-672aa72e1164" /> <br/>
 Petugas dapat keluar dari program saat memilih menu 5, dan pengulangan pada menu akan berhenti. <br/>
-<img width="786" height="342" alt="image" src="https://github.com/user-attachments/assets/0758c4f7-55fe-453f-ba1b-e16ebbbdbc9c" />
+<img width="760" height="356" alt="image" src="https://github.com/user-attachments/assets/c76dc3e1-75ea-495f-912b-5e4bb5bb280a" />
 
 ## Penerapan nilai tambah
 ### Access Modifier

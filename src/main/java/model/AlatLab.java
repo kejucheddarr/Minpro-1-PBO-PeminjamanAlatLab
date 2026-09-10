@@ -14,7 +14,7 @@ public class AlatLab {
     private String kondisiAlat;
     private int stok;
     
-    //construktor
+    //construktorr
     public AlatLab (int idAlat, String namaAlat, String kondisiAlat, int stok){
         this.idAlat = idAlat;
         this.namaAlat = namaAlat;

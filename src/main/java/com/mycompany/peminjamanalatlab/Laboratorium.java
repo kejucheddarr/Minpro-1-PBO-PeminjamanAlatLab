@@ -26,7 +26,7 @@ public class Laboratorium {
         PeminjamanService service = new PeminjamanService();
         boolean berjalan = true;
         while (berjalan) {
-            System.out.println("\n=== SISTEM MANAJEMEN PEMINJAMAN ALAT LABORATORIUM BIOLOGI ===");
+            System.out.println("\n=== SISTEM MANAJEMEN PEMINJAMAN ALAT LABORATORIUM ===");
             System.out.println("1. Tampilkan Alat");
             System.out.println("2. Tambah Peminjaman");
             System.out.println("3. Tampilkan Riwayat Peminjaman");

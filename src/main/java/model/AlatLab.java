@@ -9,13 +9,13 @@ package model;
  * @author HP
  */
 public class AlatLab {
-    private String idAlat;
+    private int idAlat;
     private String namaAlat;
     private String kondisiAlat;
     private int stok;
     
     //construktor
-    public AlatLab (String idAlat, String namaAlat, int stok, String kondisiAlat){
+    public AlatLab (int idAlat, String namaAlat, String kondisiAlat, int stok){
         this.idAlat = idAlat;
         this.namaAlat = namaAlat;
         this.kondisiAlat = kondisiAlat;
@@ -23,7 +23,7 @@ public class AlatLab {
     }
     
     //getter setter
-    public String getIdAlat() {
+    public int getIdAlat() {
         return idAlat;
     }
     
@@ -37,14 +37,6 @@ public class AlatLab {
     
     public int getStok() {
         return stok;
-    }
-    
-    public void setStok(int stok) {
-        if (stok >= 0) {
-            this.stok = stok;
-        } else {
-            System.out.println(">> ERROR VALIDASI : Stok tidak this.stok = 0");
-        }
     }
     
     //method perilaku objek

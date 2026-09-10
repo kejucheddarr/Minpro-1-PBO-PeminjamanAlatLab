@@ -19,7 +19,7 @@ Jika petugas ingin melihat riwayat peminjamannya, mereka dapat melihatnya pada m
 <img width="705" height="516" alt="image" src="https://github.com/user-attachments/assets/08c60ac3-1d4d-43fa-a38b-bc984fb11414" /> <br/>
 Setelah petugas telah mengembalikan alat yang mereka pinjam, mereka dapat memilih menu 4 dan memasukkan ID peminjaman untuk mencatat pengembalian. Sistem akan menampilkan pesan “Alat berhasil dikembalikan” dan mencatat bahwa alat yang dipinjam telah dikembalikan, dan balik ke menu awal. <br/>
 <img width="757" height="451" alt="image" src="https://github.com/user-attachments/assets/a78fba55-7abd-43f9-9763-a492be97f185" /> <br/>
-Habis melakukan pengembalian, status peminjaman alat dapat dilihat kembali melalui menu 3, dengan status yang otomatis diperbarui menjadi “Dikembalikan”. <br/>
+Usai melakukan pengembalian, status peminjaman alat dapat dilihat kembali melalui menu 3, dengan status yang otomatis diperbarui menjadi “Dikembalikan”. <br/>
 <img width="741" height="517" alt="image" src="https://github.com/user-attachments/assets/a9e69f5e-26d6-4d53-b5ba-672aa72e1164" /> <br/>
 Petugas dapat keluar dari program saat memilih menu 5, dan pengulangan pada menu akan berhenti. <br/>
 <img width="760" height="356" alt="image" src="https://github.com/user-attachments/assets/c76dc3e1-75ea-495f-912b-5e4bb5bb280a" />
